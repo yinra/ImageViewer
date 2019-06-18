@@ -1,11 +1,9 @@
 # ImageViewer
 
 ## ScreenShots
-|a|b|
-|:-----:|:-----:|
-|![](./screenshots/imG1.png)|![](./screenshots/imG2.png)|
-|![](./screenshots/imG3.png)|![](./screenshots/imG4.png)|
-|c|d|
+|Start|Select Folder|Gallery|Slide|
+|:-----:|:-----:|:-----:|:-----:|
+|![](./screenshots/imG1.png)|![](./screenshots/imG2.png)|![](./screenshots/imG3.png)|![](./screenshots/imG4.png)|
 
 
 ## Manual
